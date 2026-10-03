@@ -1,0 +1,22 @@
+{
+    "1": {
+        "crop_id": 1,
+        "name": "Rice",
+        "lifecycle": "Short Cycle"
+    },
+    "2": {
+        "crop_id": 2,
+        "name": "Cassava",
+        "lifecycle": "Long Cycle"
+    },
+    "3": {
+        "crop_id": 3,
+        "name": "Maize",
+        "lifecycle": "Short Cycle"
+    },
+    "4": {
+        "crop_id": 4,
+        "name": "Cassava",
+        "lifecycle": "Medium Cycle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "1": {
+        "yield_record_id": 1,
+        "farmer_id": 1,
+        "crop_id": 1,
+        "quantity": 2500,
+        "unit": "kg"
+    },
+    "2": {
+        "yield_record_id": 2,
+        "farmer_id": 2,
+        "crop_id": 2,
+        "quantity": 2500.0,
+        "unit": "kg"
+    },
+    "3": {
+        "yield_record_id": 3,
+        "farmer_id": 3,
+        "crop_id": 3,
+        "quantity": 1200,
+        "unit": "kg"
+    }
+}
